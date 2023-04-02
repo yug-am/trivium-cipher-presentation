@@ -1,7 +1,7 @@
 # Trivium Cipher Presentation
 
 ![Slide_1](./readme_images/Slide_intro.JPG)
-![Slide_d](./readme_images/Slide_diag.JPG)
+![Slide_d](./readme_images/Slide_diag.jpg)
 ## References
 
 -	Estream: The Ecrypt Stream Cipher Project. The eSTREAM portfolio page. (n.d.). Retrieved March 29, 2023, from [ecrypto](https://www.ecrypt.eu.org/stream/)
